@@ -7,4 +7,6 @@
     <string name="subtract">SUBTRACT</string>
     <string name="divide">DIVIDE</string>
     <string name="multiply">MULTIPLY</string>
+    <string name="by_oskar">By Oskar</string>
+    <string name="error">Error</string>
 </resources>
